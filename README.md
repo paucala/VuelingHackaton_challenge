@@ -1,5 +1,5 @@
 # VuelingHackaton_challenge
-This repository contains the challenge to the vueling and BarcelonaActiva hackaton on february 23<br />
+This repository contains the challenge to the vueling and BarcelonaActiva hackaton on february 2023<br />
 My name is Pau Calabrés and i'm studiing Java at the ItAcademy of Barcelona Activa <br />
 The objective of the challege was to make an MVP for a new travel finder feature of an online travel agency (OTA)<br />
 
